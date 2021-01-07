@@ -1,4 +1,4 @@
-The Model will train and load in the folder.
+The Model will train and load in this folder.
 link to download the IAM Hand Writing dataset:
 
 https://fki.tic.heia-fr.ch/databases/iam-handwriting-database
